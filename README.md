@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andremelonaa
 - 👀 I’m interested in Crypto Testnets
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust and GO
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by twitter
 
